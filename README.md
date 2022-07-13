@@ -16,4 +16,4 @@ Fake Data using faker.js
 
 ## Demo
 
-Link Demo: 
+Link Demo: https://neoscatshop.netlify.app/
